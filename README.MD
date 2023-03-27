@@ -2,7 +2,7 @@
 
 # Olá pessoal 👋 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
-Eu sou desenvolvedor Front-end Developer e tenho 1 ano de experiência profissional na área 💻 <br/><br/>
+Eu sou desenvolvedor Full Stack Developer e tenho 1 ano de experiência profissional na área 💻 <br/><br/>
 
 <img src="https://www.isbrasil.info/blog/_images/blog/destaques/2018/07/02/o-papel-do-programador-na-definicao-da-estrategia-digital_15aa61961ff3a95c582773cbeaeb5be7.webp"><br/><br/>
 
