@@ -4,6 +4,7 @@
 
 Full Stack Developer, atualmente com 1 ano de experiência profissional na área. 💻 <br/><br/>
 Cursando Análise e desenvolvimento de sistemas na PUC Minas.
+Estudando inglês na World Opportunity.
 
 <img src="https://www.isbrasil.info/blog/_images/blog/destaques/2018/07/02/o-papel-do-programador-na-definicao-da-estrategia-digital_15aa61961ff3a95c582773cbeaeb5be7.webp"><br/><br/>
 
