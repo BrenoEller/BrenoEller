@@ -17,6 +17,7 @@ Cursando Análise e desenvolvimento de sistemas na PUC Minas.
  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+ <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
  
  <br/> 💬 Sobre mim: Não só gosto do mundo da tecnologia por trabalho também a uso como hobby! Gosto de ver séries, filmes e jogar sempre que disponível!
  <div>
