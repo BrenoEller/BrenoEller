@@ -2,7 +2,7 @@
 
 # Olá pessoal 👋 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
-Full Stack Developer, atualmente com 1 ano de experiência profissional na área. 💻 <br/><br/>
+Full Stack Developer, atualmente com 2 anos de experiência profissional na área. 💻 <br/><br/>
 Cursando Análise e desenvolvimento de sistemas na PUC Minas.
 
 <img src="https://www.isbrasil.info/blog/_images/blog/destaques/2018/07/02/o-papel-do-programador-na-definicao-da-estrategia-digital_15aa61961ff3a95c582773cbeaeb5be7.webp"><br/><br/>
