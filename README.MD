@@ -1,11 +1,9 @@
-# Breno Eller
-
 # Olá pessoal 👋 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
 Full Stack Developer, atualmente com 3 anos de experiência profissional na área. 💻 <br/><br/>
 Cursando Análise e desenvolvimento de sistemas na PUC Minas.
 
-<img src="https://www.isbrasil.info/blog/_images/blog/destaques/2018/07/02/o-papel-do-programador-na-definicao-da-estrategia-digital_15aa61961ff3a95c582773cbeaeb5be7.webp"><br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="auto" width="100%">
 
 🚀 Minhas stacks 🚀<br/><br/>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
