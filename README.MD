@@ -3,7 +3,7 @@
 Full Stack Developer, atualmente com 3 anos de experiência profissional na área. 💻 <br/><br/>
 Cursando Análise e desenvolvimento de sistemas na PUC Minas.
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="300px" width="100%" object-fit="cover">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="300px" width="80%">
 
 🚀 Minhas stacks 🚀<br/><br/>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
