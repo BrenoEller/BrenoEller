@@ -16,10 +16,7 @@ Cursando Análise e desenvolvimento de sistemas na PUC Minas.
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
- 
- <br/> 💬 Sobre mim: Fã de carteirinha da arte no geral, seja música, filmes ou pinturas. O que me deu o pontapé para iniciar como desenvolvedor frontend, podendo montar minhas telas como bem entendesse. E quando finalmente entendi mais sobre a área… BOOom💥💥
- Descobri que a programação é vasta, é posso sempre estar aprendendo novas coisas além da montagem de cruds, o que me levou ao mundo do fullstack! Uma mistura dos meus hobbys com o mundo LITERALMENTE mágico do backend, que sempre nos tem algo novo para mostrar!
- <div>
+
      <h3>Redes sociais<h3/>
      <a href="https://www.linkedin.com/in/brenoeller/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
  <div/>
