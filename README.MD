@@ -17,6 +17,7 @@ Cursando Análise e desenvolvimento de sistemas na PUC Minas.
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 
+<div>
      <h3>Redes sociais<h3/>
      <a href="https://www.linkedin.com/in/brenoeller/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
  <div/>
